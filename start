@@ -1,0 +1,7 @@
+
+var v=12;
+function f1(){
+alert(console.log(v));
+}
+
+f1();
